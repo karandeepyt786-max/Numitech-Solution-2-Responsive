@@ -1,0 +1,232 @@
+.main1{
+    width: 100%;
+    height: auto;
+    display: flex;
+    background: url("../Numitech Solution/agency6-section-bg1-1.webp");
+    background-color: #1B1726;
+    background-repeat: no-repeat;
+    justify-content: center;
+gap: 10px;
+/* background-color: green; */
+/* overflow: hidden; */
+}
+
+.main1Coverer{
+    width: 90%;
+    height:auto;
+    display: flex;
+/* background-color: pink; */
+
+}
+
+.leftBox{
+width: 50%;
+height: auto;
+display: flex;
+flex-direction: column;
+/* align-items: center; */
+/* justify-content: center; */
+color: white;
+padding-top: 300px;
+
+}
+
+.main1LeftBox{
+
+display: flex;
+flex-direction: column;
+flex-wrap: wrap;
+}
+
+
+.main1LeftBox span{
+color: white;
+}
+
+
+
+.line1{
+   
+    display: flex; gap: 10px;
+    flex-wrap: wrap;
+    /* background-color: green; */
+    color: white;
+font-size: 61px;
+line-height: 80px;
+font-weight: 600;
+}
+
+/* 723 */
+
+@media (723px <  width<1065px) {
+    .line1{
+   
+    display: flex; gap: 10px;
+    flex-wrap: wrap;
+    /* background-color: green; */
+    color: white;
+font-size: 32px;
+line-height: 50px;
+font-weight: 600;
+}
+
+.main1LeftBox .line2{
+    color: white;
+    /* background-color: pink; */
+    margin-top: 30px;
+   
+}
+
+}
+
+@media (width<723px) {
+
+    .main1LeftBox{
+        /* background-color: red; */
+        width: 100%;
+        height: auto;
+    }
+
+.leftBox{
+    padding-top: 30px;
+    width: 100%;
+}
+
+.main1 .main1Coverer{
+    /* background-color: green; */
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+    .line1{
+   
+    display: flex; gap: 10px;
+    flex-wrap: wrap;
+    /* background-color: green; */
+    color: white;
+font-size: 32px;
+line-height: 50px;
+font-weight: 600;
+display: flex;
+justify-content: center;
+}
+
+.main1LeftBox .line2{
+    color: white;
+  
+    margin-top: 30px;
+}
+
+.line2 .line2ContentBox{
+flex-direction: column;
+align-items: center;
+gap: 0;
+}
+
+.line2ContentBox .line2ContactBox{
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+
+
+
+
+
+
+
+.rightBox{
+width: 100vw;
+height: 100vw;
+display: flex;
+
+margin-top: 0px;
+/* background-color: gray; */
+}
+
+.main1Coverer .rightBox {
+        width: 100%;
+        height: auto;
+background-size: 100% 100%;
+    /* background-color: pink; */
+}
+
+.rightBox .main1RightBoxIMG{
+    width: 100vw;
+    height: 85vw;
+}
+
+}
+
+
+
+.line1 span:nth-child(3){
+
+color: blue;
+}
+
+.line1 span:nth-child(4){
+
+color: blue;
+}
+
+.line1 span:nth-child(7){
+
+color: blue;
+}
+
+
+.line2{
+    color: white;
+    /* background-color: white; */
+    margin-top: 300px;
+   
+}
+
+.line2ContentBox{
+    display: flex;
+    gap: 30px;
+}
+
+.ContactImage{
+    background: url("../Numitech Solution/agency6-home-icon1.webp");
+    width: 50px;
+    height: 50px;
+    background-repeat: no-repeat;
+    /* background-color: white; */
+}
+
+.contactUs{
+    color: rgb(122, 122, 122);
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 22px;
+}
+
+.contactUsNumber{
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 50px;
+    color: white;
+}
+
+
+.rightBox{
+width: 50%;
+height: 50vw;
+display: flex;
+align-items: center;
+justify-content: center;
+margin-top: 120px;
+/* background-color: gray; */
+}
+
+.main1RightBoxIMG{
+    background:url("../Numitech Solution/agency6-slider-pic1.webp");
+    /* width: 98%;
+    height: 98%; */
+    width: 50vw;
+    height: 45vw;
+background-size: 100% 100%;
+}
+

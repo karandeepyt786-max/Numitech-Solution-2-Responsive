@@ -1,0 +1,202 @@
+.main2{
+    width: 100%;
+    height: 100vh;
+    /* background-color: red; */
+    display: flex;
+    justify-content: center;
+    /* background: url(); */
+    margin-top: 100px;
+}
+
+.main2Coverer{
+    width: 80%;
+    /* background-color: blue; */
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    gap: 60px;
+}
+
+.main2CovererContentBox{
+width: 100%;
+height: auto;
+/* background-color: pink; */
+font-size: 56px;
+line-height: 73px;
+font-weight: 600;
+display: flex;
+justify-content: center;
+
+}
+
+.main2CovererContentBoxData{
+    display: flex;
+    flex-direction: column;
+    color: white;
+}
+
+.main2CovererContentBoxData div{
+    display: flex;
+   flex-wrap: wrap;
+   justify-content: center;
+   align-items: center;
+   gap: 10px;
+}
+
+.main2CovererContentBoxData{
+    width: 100%;
+    /* background-color: green; */
+    display: flex;
+   
+}
+
+.main2CovererContentBoxData .main2CovererContentBoxData2 .bl{
+  color: blue;
+   
+}
+
+.main2CovererBoxesContainer{
+width: 100%;
+height: auto;
+/* background-color: gray; */
+display: flex;
+justify-content: space-between;
+}
+
+@media (width<946px) {
+.main2CovererContentBox{
+width: 100%;
+height: auto;
+/* background-color: pink; */
+font-size: 30px;
+line-height: 49px;
+font-weight: 600;
+display: flex;
+justify-content: center;
+
+}
+}
+
+.main2CovererBoxesContainerBox1{
+    width: 20%;
+    height: auto;
+   overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   
+    /* background-color: red; */
+}
+
+
+
+
+
+
+.main2CovererBoxesContainerBox1Content1{
+    font-size: 13px;
+    line-height: 10px;
+    font-weight: 600;
+    color: rgb(222, 248, 90);
+    margin-top: 30px;
+}
+
+
+.main2CovererBoxesContainerBox1Dotted{
+    font-size: 20px;
+        color: rgb(222, 248, 90);
+       
+
+}
+
+.main2CovererBoxesContainerBox1Box{
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+
+.main2CovererBoxesContainerBox1BoxIMG1{
+    background: url("../Numitech Solution/agency6-whatwedo-icon7.webp");
+    width: 60px;
+        height:60px;
+
+    background-size: 100% 100%;
+    margin-bottom: 10px;
+}
+
+.main2CovererBoxesContainerBox1BoxIMG2{
+    background: url("../Numitech Solution/shopping-online.png");
+    width: 60px;
+    height:60px;
+    background-size: 100% 100%;
+    margin-bottom: 10px;
+}
+
+.main2CovererBoxesContainerBox1BoxIMG3{
+    background: url("../Numitech Solution/agency6-whatwedo-icon5.webp");
+    width: 60px;
+        height:60px;
+
+    background-size: 100% 100%;
+    margin-bottom: 10px;
+}
+
+.main2CovererBoxesContainerBox1BoxIMG4{
+    background: url("../Numitech Solution/agency6-whatwedo-icon6.webp");
+    width: 60px;
+        height:60px;
+
+    background-size: 100% 100%;
+    margin-bottom: 10px;
+}
+
+
+
+
+
+.main2CovererBoxesContainerBox1BoxWhiteContent{
+    font-size: 18px ;
+    line-height: 23px;
+    font-weight: 500;
+    color: white;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 5px;
+}
+
+.main2CovererBoxesContainerBox1BoxYellowContent{
+    font-size: 16px ;
+    line-height: 26px;
+    font-weight: 400;
+    color: rgb(222, 248, 90);
+      display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 5px;
+}
+
+@media (width<987px) {
+    .main2CovererBoxesContainer{
+width: 100%;
+height: auto;
+/* background-color: gray; */
+display: flex;
+flex-direction: column;
+}
+
+.main2CovererBoxesContainerBox1{
+    width: 100%;
+    height: auto;
+   overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   
+    /* background-color: green; */
+}
+
+}
