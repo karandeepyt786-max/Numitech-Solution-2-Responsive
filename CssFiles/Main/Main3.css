@@ -26,7 +26,7 @@
     display: flex;
     gap: 10px;
     place-content: center;
-    margin-bottom: 40px;
+   
 }
 
 .main3CovererHeading span:nth-child(2){
@@ -351,19 +351,19 @@ background-repeat: no-repeat;
 .main3CovererContainer1ImgBox2{
     width: 80vw;
     height: 95vw;
-    margin-top: 100px;
+    margin-top: 200px;
 }
 
 .main3CovererContainer1ImgBox3{
     width: 80vw;
     height: 95vw;
-    margin-top: 100px;
+    margin-top: 359px;
 }
 
 .main3CovererContainer1ImgBox4{
     width: 80vw;
     height: 95vw;
-        margin-top: 200px;
+        margin-top: 285px;
 
 }
 

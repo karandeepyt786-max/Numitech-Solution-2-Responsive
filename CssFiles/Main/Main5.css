@@ -11,7 +11,7 @@
     /* background-color: pink; */
     overflow: hidden;
     position: relative;
-    margin-top: 100px;
+    /* margin-top: 0px; */
 }
 
 
@@ -117,3 +117,13 @@ font-weight: 700;
 color: white;
 }
 
+@media (width<1224px) {
+ .main5 .main5Coverer{
+    width: 80%;
+    height: auto;
+    /* background-color: pink; */
+    overflow: hidden;
+    position: relative;
+    margin-top: 100px;
+}   
+}
