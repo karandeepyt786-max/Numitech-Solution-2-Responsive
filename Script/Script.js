@@ -12,12 +12,12 @@ Right.addEventListener("click",()=>{
     console.log("Left click")
     console.log(index)
 
-if(index<=5 ){
+if(index<=AllCount.length-2 ){
    index++
     
     AllCount.forEach((ite)=>{
         ite.style.transform=`translateX(-${index*100}%)`
-        ite.style.transition="3s"
+        ite.style.transition="500ms"
     })
     console.log(index)
 }
@@ -30,19 +30,5 @@ else{
 })
 
 
-Left.addEventListener("click",()=>{
-    console.log("Left click")
-    console.log(index)
-
-if(index>=5 ){
-   index--
-    
-    AllCount.forEach((ite)=>{
-        ite.style.transform=`translateX(${index*100}%)`
-        ite.style.transition="3s"
-    })
-    console.log(index)
-}
 
 
-})
