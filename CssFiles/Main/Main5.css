@@ -1,0 +1,118 @@
+.main5{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+}
+
+.main5Coverer{
+    width: 80%;
+    height: 50vh;
+    /* background-color: pink; */
+    overflow: hidden;
+    position: relative;
+}
+
+
+.main5CovererContainer1{
+font-size: 14px;
+line-height: 23px;
+font-weight: 600;
+color: rgb(103, 103, 103);
+text-align: center;
+margin-bottom: 60px;
+}
+
+
+.main5CovererContainer2{
+
+display: flex;
+width: 400%;
+height: auto;
+
+}
+
+
+
+.main5CovererContainer2LeftArrowSlide{
+color: white;
+position: absolute;
+font-size: 20px;
+top: 50%;
+
+}
+
+.main5CovererContainer2RightArrowSlide{
+    color: white;
+    position: absolute;
+    font-size: 20px;
+    right: 0;
+    top: 50%;
+   
+}
+
+
+
+
+.main5CovererContainer2Box1{
+display: flex;
+flex-direction: column;
+gap: 20px;
+}
+
+.main5CovererContainer2Box1Content{
+font-size: 21px;
+line-height: 31px;
+font-weight: 400;
+color: white;
+text-align: center;
+}
+
+.main5CovererContainer2Box1Profile{
+display: flex;
+justify-content: center;
+align-items: center;
+gap: 15px;
+}
+
+.main5CovererContainer2Box1ProfileImg{
+background: url("../Numitech Solution/businesswoman-posing-1-scaled.jpg");
+width: 50px;
+height: 50px;
+background-size: 100% 100%;
+border-radius: 50%;
+}
+
+.main5CovererContainer2Box1ProfileImg2{
+background: url("../Numitech Solution/business-man-posing.jpg");
+width: 50px;
+height: 50px;
+background-size: 100% 100%;
+border-radius: 50%;
+}
+
+.main5CovererContainer2Box1ProfileImg3{
+background: url("../Numitech Solution/businesswoman-posing-1-scaled.jpg");
+width: 50px;
+height: 50px;
+background-size: 100% 100%;
+border-radius: 50%;
+}
+
+.main5CovererContainer2Box1ProfileImg4{
+background: url("../Numitech Solution/indian-businessman-with-his-white-car.jpg");
+width: 50px;
+height: 50px;
+background-size: 100% 100%;
+border-radius: 50%;
+}
+
+
+
+.main5CovererContainer2Box1ProfileName{
+font-size: 14px;
+line-height: 21px;
+font-weight: 700;
+color: white;
+}
+

@@ -1,0 +1,415 @@
+.main3{
+    width: 100%;
+    height: auto;
+    /* background-color: white; */
+     display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* justify-content: center; */
+}
+
+.main3Coverer{
+    width: 80%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 50px;  
+    /* background-color: white; */
+   
+}
+
+.main3CovererHeading{
+    font-size: 56px;
+    line-height: 73px;
+    font-weight: 600;
+    color: white;
+    display: flex;
+    gap: 10px;
+    place-content: center;
+    margin-bottom: 40px;
+}
+
+.main3CovererHeading span:nth-child(2){
+    color: blue;
+}
+
+.main3CovererContainer1{
+    width: 100%;
+    height: auto;
+    /* background-color: pink; */
+    display: flex;
+    /* justify-content: space-between; */
+    gap: 50px;
+}
+
+.main3CovererContainer2{
+    width: 100%;
+    height: auto;
+    /* background-color: pink; */
+    display: flex;
+    /* justify-content: space-between; */
+    gap: 50px;
+}
+
+.main3CovererContainer3{
+    width: 100%;
+    height: auto;
+    /* background-color: pink; */
+    display: flex;
+    /* justify-content: space-between; */
+    gap: 50px;
+}
+
+.main3CovererContainer4{
+    width: 100%;
+    height: auto;
+    /* background-color: pink; */
+    display: flex;
+    /* justify-content: space-between; */
+    gap: 50px;
+}
+
+
+
+
+
+
+
+.main3CovererContainer1ImgBox{
+width: 40vw;
+height: 55.2vw;
+/* background-color: blue; */
+background: url("../Numitech Solution/agency6-whatwedo-pic2.webp");
+background-size: 100% 100%;
+border-radius: 20px;
+}
+
+.main3CovererContainer1ImgBox2{
+width: 47%;
+height: 110vh;
+/* background-color: blue; */
+background: url("../Numitech Solution/agency6-whatwedo-pic3-1.webp");
+background-size: 100% 100%;
+border-radius: 20px;
+}
+
+.main3CovererContainer1ImgBox3{
+width: 47%;
+height: 110vh;
+/* background-color: blue; */
+background: url("../Numitech Solution/agency6-whatwedo-pic4-1.webp");
+background-size: 100% 100%;
+border-radius: 20px;
+}
+
+.main3CovererContainer1ImgBox4{
+width: 47%;
+height: 110vh;
+/* background-color: blue; */
+background: url("../Numitech Solution/agency6-whatwedo-pic5.webp");
+background-size: 100% 100%;
+border-radius: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.main3CovererContainer1ContentBox{
+width: 47%;
+height: 110vh;
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+padding-bottom: 5vw;
+/* background-color: green; */
+}
+
+.main3CovererContainer1ContentBox1{
+    font-size: 14px;
+    line-height: 23px;
+    color: rgb(103, 103, 103);
+   font-weight: 600;
+   margin-bottom: 20px;
+}
+
+.main3CovererContainer1ContentBox2{
+    font-size: 50px;
+    line-height: 70px;
+    color: rgb(94, 51, 255);
+    font-weight: 600;
+}
+
+.main3CovererContainer1ContentBox3{
+    font-size: 35px;
+    line-height: 52px;
+    color: white;
+    font-weight: 500;
+}
+
+.main3CovererContainer1ContentBox4{
+    width: 100%;
+    height: auto;
+    /* background-color: green; */
+    display: flex;
+    gap:10px;
+}
+
+.main3CovererContainer1ContentBox4Box1{
+width: 80%;
+/* background-color: pink; */
+}
+
+
+.main3CovererContainer1ContentBox4Box1Content{
+font-size: 16px;
+line-height: 26px;
+font-weight: 400;
+color: white;
+}
+
+
+
+.main3CovererContainer1ContentBox4Box2{
+/* width: 20%; */
+/* background-color: gray; */
+padding-left: 10px;
+}
+
+
+
+.main3CovererContainer1ContentBox4Box2Content{
+font-size: 16px;    
+line-height: 26px;
+font-weight: 400;
+color: white;
+}
+
+
+.main3CovererContainer1ContentBox5{
+  font-size: 16px;    
+line-height: 26px;
+font-weight: 400;
+    color: white;
+}
+
+
+/* 1 Box */
+
+.main3CovererContainer1ContentBox4Box1Img{
+background: url("../Numitech Solution/agency6-whatwedo-icon1.webp");
+width: 70px;
+height: 70px;
+background-repeat: no-repeat;
+/* background-color: red; */
+}
+
+
+.main3CovererContainer1ContentBox4Box2Img{
+background: url("../Numitech Solution/agency6-whatwedo-icon2.webp");
+width: 70px;
+height: 70px;
+background-repeat: no-repeat;
+/* background-color: red; */
+}
+
+
+
+
+
+
+/* 2 Box */
+.main3CovererContainer1ContentBox4Box12Img{
+background: url("../Numitech Solution/agency6-whatwedo-icon3.webp");
+width: 70px;
+height: 70px;
+background-repeat: no-repeat;
+/* background-color: red; */
+}
+
+
+.main3CovererContainer1ContentBox4Box22Img{
+background: url("../Numitech Solution/agency6-whatwedo-icon6.webp");
+width: 70px;
+height: 70px;
+background-repeat: no-repeat;
+/* background-color: red; */
+}
+
+
+
+
+
+
+
+
+
+/* 3 Box */
+.main3CovererContainer1ContentBox4Box13Img{
+background: url("../Numitech Solution/agency6-whatwedo-icon5.webp");
+width: 70px;
+height: 70px;
+background-repeat: no-repeat;
+/* background-color: red; */
+}
+
+
+.main3CovererContainer1ContentBox4Box23Img{
+background: url("../Numitech Solution/agency6-whatwedo-icon4.webp");
+width: 70px;
+height: 70px;
+background-repeat: no-repeat;
+/* background-color: red; */
+}
+
+
+
+
+
+/* 4 Box */
+.main3CovererContainer1ContentBox4Box14Img{
+background: url("../Numitech Solution/agency6-whatwedo-icon2.webp");
+width: 70px;
+height: 70px;
+background-repeat: no-repeat;
+/* background-color: red; */
+}
+
+
+.main3CovererContainer1ContentBox4Box24Img{
+background: url("../Numitech Solution/icons8-application-96.png");
+width: 70px;
+height: 70px;
+background-size: 100% 100%;
+background-repeat: no-repeat;
+/* background-color: red; */
+}
+
+
+
+
+@media (width<967px) {
+
+
+    .main3CovererContainer1{
+    width: 100%;
+    height: auto;
+    display: flex;
+    gap: 50px;
+    flex-direction: column;
+    
+}
+
+    .main3CovererContainer2{
+    width: 100%;
+    height: auto;
+    display: flex;
+    gap: 50px;
+    flex-direction: column-reverse;
+}
+
+    .main3CovererContainer3{
+    width: 100%;
+    height: auto;
+    display: flex;
+    gap: 50px;
+    flex-direction: column;
+}
+
+    .main3CovererContainer4{
+    width: 100%;
+    height: auto;
+    display: flex;
+    gap: 50px;
+    flex-direction: column;  
+      flex-direction: column-reverse;
+
+}
+
+
+.main3CovererContainer1ContentBox2{
+    text-align: center;
+            margin-bottom: 84px;
+}
+
+
+
+.main3CovererContainer1ImgBox{
+    width: 80vw;
+    height: 95vw;
+    
+}
+
+.main3CovererContainer1ImgBox2{
+    width: 80vw;
+    height: 95vw;
+    margin-top: 100px;
+}
+
+.main3CovererContainer1ImgBox3{
+    width: 80vw;
+    height: 95vw;
+    margin-top: 100px;
+}
+
+.main3CovererContainer1ImgBox4{
+    width: 80vw;
+    height: 95vw;
+        margin-top: 200px;
+
+}
+
+
+
+
+
+
+
+.main3CovererContainer1ContentBox{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.main3CovererContainer1ContentBox3{
+    text-align: center;
+}
+
+.main3CovererContainer1ContentBox4{
+    display: flex;
+flex-direction: column;
+align-items: center;
+}
+
+.main3CovererContainer1ContentBox4Box1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.main3CovererContainer1ContentBox4Box2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.main3CovererContainer1ContentBox5{
+    text-align: center;
+}
+
+
+.main3CovererContainer1ContentBox4{
+   margin: 20px;
+}
+}
